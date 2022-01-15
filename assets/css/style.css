@@ -81,9 +81,15 @@ body {
     border: none;
 }
 
+
+/* hover area */
+
 #icon:hover {
     color: var(--main-color);
 }
+
+
+/* hover area */
 
 .nav-right ul {
     list-style-type: none;
@@ -110,6 +116,9 @@ body {
     border-bottom: 2px solid transparent;
 }
 
+
+/* hover area */
+
 .nav-right li:hover a {
     border-bottom: 2px solid var(--main-color);
 }
@@ -117,6 +126,9 @@ body {
 .nav-right li:hover ul a:hover {
     color: #000;
 }
+
+
+/* hover area */
 
 .nav-right li ul {
     display: none;
